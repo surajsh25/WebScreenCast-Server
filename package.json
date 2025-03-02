@@ -1,0 +1,20 @@
+{
+  "name": "signaling-server",
+  "version": "1.0.0",
+  "description": "A simple WebSocket Server with Code Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "uuid": "^11.1.0",
+    "winston": "^3.17.0",
+    "ws": "^8.18.1"
+  }
+}

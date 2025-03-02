@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+server.log
+*.log
+
+# Environment variables
+.env
+
+# Build output (if you add a build step later)
+dist/
+build/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
