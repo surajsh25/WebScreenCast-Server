@@ -1,8 +1,8 @@
 {
   "name": "signaling-server",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "A simple WebSocket Server with Code Management",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
