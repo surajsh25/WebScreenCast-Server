@@ -118,10 +118,6 @@ If you encounter issues:
 - Screen recording capability
 - Mobile device support
 
-## 📄 License
-
-[MIT License](LICENSE)
-
 ## 👨‍💻 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
