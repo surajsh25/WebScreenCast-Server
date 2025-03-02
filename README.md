@@ -21,7 +21,7 @@ A WebRTC-based screen casting solution that allows you to cast your PC screen to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/webscreen-caster.git
+   git clone https://github.com/surajsh25/WebScreenCast-Server.git
    cd webscreen-caster
    ```
 
